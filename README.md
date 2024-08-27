@@ -1,5 +1,5 @@
 "Mi Proyecto" 
 "A¤adiendo contenido en la rama nueva-funcionalidad." 
 "Modificaci¢n en la rama principal." 
-"Modificaci¢n en la rama principal." 
-"Cambio en rama secundaria" 
+"Cambio en rama principal" 
+
